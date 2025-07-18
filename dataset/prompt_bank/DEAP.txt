@@ -1,0 +1,5 @@
+Dataset Description:
+The DEAP dataset contains EEG signals recorded from 32 participants while watching music videos. 
+Each participant rated the videos in terms of arousal, valence, dominance and liking.
+The EEG signals are recorded using 32 channels at 128Hz sampling rate.
+This dataset is used for emotion recognition from physiological signals.
